@@ -1,10 +1,8 @@
 # 删除文件 (git rm)
-```shell
+```bash
+# 删除文件|目录|当前目录下的所有内容
 git rm <file|directory|.>
-```
-删除xxx文件，版本库和工作区都会一并被删除
 
-```shell
+# 从缓存区中删除被add的文件，或者从版本库中删除被commit的文件，将文件放回工作区
 git rm -—cached <file|directory|.>
 ```
-从缓存区中删除被add的文件，或者从版本库中删除被commit的文件，将文件放回工作区
