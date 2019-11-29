@@ -1,14 +1,19 @@
 # 标签 (git tag)
+发布一个系统，或者系统到达某一个里程碑的时候，最需要打一个tag，做一个标记
+
+标签不是专属于某一个分支的，换言之：标签和分支是没有关系的，标签属于整个git仓库，标签不会随着分支的切换而改变。
+
 标签有两种
 * 轻量级标签（lightweight）
 * 带有附注标签（annotated）
 
-```shell
+```bash
 # 查看标签列表
 git tag
 
 # 新建一个tag在当前commit
-git tag [tag] # eg: git tag v1.0
+# eg: git tag v1.0.0
+git tag [tag]
 
 # 新建一个tag在指定commit
 git tag [tag] [commit]
