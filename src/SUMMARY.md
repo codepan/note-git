@@ -10,6 +10,7 @@
   * [3.1 代码推送到远程仓库](chapter3/代码推送到远程仓库.md) 
   * [3.2 拉取远程代码](chapter3/拉取远程代码.md) 
   * [3.3 远程仓库](chapter3/远程仓库.md) 
+  * [3.4 分支建立关联关系](chapter3/分支建立关联关系.md) 
 * [第4章 分支操作](chapter4/README.md) 
   * [4.1 分支切换](chapter4/分支切换.md) 
   * [4.2 分支合并](chapter4/分支合并.md) 
@@ -35,3 +36,6 @@
   * [11.2 忽略文件](chapter11/忽略文件.md) 
   * [11.3 压缩包](chapter11/压缩包.md) 
   * [11.4 优化合并](chapter11/优化合并.md) 
+  * [11.5 GUI](chapter11/GUI.md) 
+* 第12章 github
+  * [12.1 ssh私钥公钥](chapter12/ssh私钥公钥.md) 
