@@ -1,2 +1,1 @@
-# git学习笔记
-[电子书](http://www.codepan.top/git)
+git学习笔记，不适合初学者，只适合忘记时查阅
