@@ -1,0 +1,41 @@
+* 初识和基础配置
+  * [版本管理工具](chapter1/版本管理工具.md) 
+  * [配置](chapter1/配置.md) 
+* 基本操作
+  * [克隆远程仓库](chapter2/克隆远程仓库.md) 
+  * [初始化仓库](chapter2/初始化仓库.md) 
+  * [添加到暂存区](chapter2/添加到暂存区.md) 
+  * [提交代码到版本库](chapter2/提交代码到版本库.md) 
+* 远程仓库同步
+  * [代码推送到远程仓库](chapter3/代码推送到远程仓库.md) 
+  * [拉取远程代码](chapter3/拉取远程代码.md) 
+  * [远程仓库](chapter3/远程仓库.md) 
+  * [分支建立关联关系](chapter3/分支建立关联关系.md) 
+* 分支操作
+  * [分支切换](chapter4/分支切换.md) 
+  * [分支合并](chapter4/分支合并.md) 
+  * [分支增删改查](chapter4/分支增删改查.md) 
+  * [删除远程分支](chapter4/删除远程分支.md) 
+  * [再谈分支](chapter4/再谈分支.md) 
+* [删除文件](chapter5/README.md) 
+* 查看信息
+  * [查看工作区状态](chapter6/查看工作区状态.md) 
+  * [查看提交日志](chapter6/查看提交日志.md) 
+  * [查看操作日志](chapter6/查看操作日志.md) 
+  * [差异性比较](chapter6/差异性比较.md) 
+  * [查看文件修改的信息](chapter6/查看文件修改的信息.md) 
+* 撤销
+  * [撤销工作区](chapter7/撤销工作区.md) 
+  * [撤销暂存区](chapter7/撤销暂存区.md) 
+  * [版本切换](chapter7/版本切换.md) 
+* [重命名](chapter8/README.md) 
+* [储藏工作区](chapter9/README.md) 
+* [标签](chapter10/README.md) 
+* 其他
+  * [别名](chapter11/别名.md) 
+  * [忽略文件](chapter11/忽略文件.md) 
+  * [压缩包](chapter11/压缩包.md) 
+  * [优化合并](chapter11/优化合并.md) 
+  * [GUI](chapter11/GUI.md) 
+* github
+  * [ssh私钥公钥](chapter12/ssh私钥公钥.md) 
